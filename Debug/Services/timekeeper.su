@@ -1,0 +1,2 @@
+timekeeper.c:27:6:launch_timekeeper_service	32	static
+timekeeper.c:37:13:timekeeper_service_task	40	static

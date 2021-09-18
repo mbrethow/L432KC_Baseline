@@ -1,0 +1,2 @@
+heartbeat.c:24:6:launch_heartbeat_service	32	static
+heartbeat.c:34:13:heartbeat_service_task	16	static

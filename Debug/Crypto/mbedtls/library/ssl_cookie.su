@@ -1,0 +1,9 @@
+ssl_misc.h:388:19:mbedtls_ssl_chk_buf_ptr	24	static
+ssl_misc.h:1268:19:mbedtls_ssl_safer_memcmp	40	static
+ssl_cookie.c:68:6:mbedtls_ssl_cookie_init	16	static
+ssl_cookie.c:81:6:mbedtls_ssl_cookie_set_timeout	16	static
+ssl_cookie.c:86:6:mbedtls_ssl_cookie_free	16	static
+ssl_cookie.c:97:5:mbedtls_ssl_cookie_setup	72	static
+ssl_cookie.c:123:12:ssl_cookie_hmac	56	static
+ssl_cookie.c:149:5:mbedtls_ssl_cookie_write	48	static
+ssl_cookie.c:191:5:mbedtls_ssl_cookie_check	80	static
